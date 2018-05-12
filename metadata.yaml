@@ -1,0 +1,28 @@
+_repo: Learn-to-Invent-First-Steps-for-Beginners-Young-and-OldPractical-Instuction-Valuable-Suggesti__45139
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45139-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clark, Samuel Evans
+    alias: Clark, S. E.
+    gutenberg_agent_id: '43120'
+    url: http://www.gutenberg.org/2009/agents/43120
+description: ''
+gutenberg_issued: '2014-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45139'
+  lccn: 07033939
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions'
+- !lcc 'T'
+title: 'Learn to Invent, First Steps for Beginners Young and Old
+
+  Practical Instuction, Valuable Suggestions to Learn to Invent'
+url: http://www.gutenberg.org/ebooks/45139
