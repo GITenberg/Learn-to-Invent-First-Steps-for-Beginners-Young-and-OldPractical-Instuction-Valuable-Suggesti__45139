@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43120'
     url: http://www.gutenberg.org/2009/agents/43120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45139#Learn-to-Invent-First-Steps-for-Beginners-Young-and-OldPractical-Instuction-Valuable-Suggesti_
 gutenberg_issued: '2014-03-15'
 gutenberg_type: Text
 identifiers:
